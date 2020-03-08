@@ -12,7 +12,7 @@ Por Solicitud del **M.A. Artemio Lara Chávez** _(Jefe del Depto. de Gestión Te
 **Prestadores:**
 * Acevedo Cardona Adelaid Lesdeymariet _[16211957]_
 * Carlos Ian Perez Vanoye _[16212065]_
-* Víctor Manuel Gastelum Coronado 
+* Víctor Manuel Gastelum Coronado _[16212008]_
              
 ## Herramientas
 * WampServer v3.1.9
