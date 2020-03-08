@@ -1,7 +1,0 @@
-SELECT * FROM `resultado` 
-DELETE FROM `resultado` WHERE `resultado`.`idResultado` = 2 AND `resultado`.`idAspirante` = 4 AND `resultado`.`idExamen` = 0
-SELECT * FROM `aspirante`
-UPDATE `aspirante` SET `presento` = '0' WHERE `aspirante`.`idAspirante` = 3 AND `aspirante`.`idInstitucion` = 1;
-https://www.lawebdelprogramador.com/foros/PHP/1586069-Boton-ELIMINAR-DELETE-PHP-MYSQL.html
-http://loseasi.blogspot.com/2011/08/boton-para-recargar-una-pagina.html
-http://www.forosdelweb.com/f18/poner-html-dentro-php-otra-forma-370951/
