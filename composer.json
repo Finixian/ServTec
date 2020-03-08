@@ -1,0 +1,23 @@
+{
+    "name": "runcoding/examenphp",
+    "description": "Personal project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Controller\\": "Controllers/",
+            "Model\\": "Models/",
+            "View\\": "Views/logicavista"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ismael López",
+            "email": "lc.ismael@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "vlucas/phpdotenv": "^2.5@dev"
+    }
+}
