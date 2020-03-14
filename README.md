@@ -31,15 +31,21 @@ Por Solicitud del **M.A. Artemio Lara Chávez** _(Jefe del Depto. de Gestión Te
 
 ## Instrucciones para Ejecutarlo Localmente
 1. [Descargar WampServer](https://drive.google.com/file/d/19_QKpAA-_yDf052s-rYwwKu_wz5T3eCs/view?usp=sharing).
-2. [Descargar el Repositorio](https://github.com/Acevedo-Cardona-Adelaid-Lesdeymariet/ServTec) y _Guardarlo_ en la Dirección `C:\wamp\www` con el Nombre _**"ServTec"**_, posteriormente _Descomprimirlo_ en la misma ubicación. 
-3. Ejecutar WampServer y esperar a que los 3 servicios se encuentren ejecutandose (El logo de WampServer debe pintarse de color Verde).
+2. [Descargar el Repositorio](https://github.com/Acevedo-Cardona-Adelaid-Lesdeymariet/ServTec) y Guardarlo en la Dirección `C:\wamp\www` con el Nombre _**"ServTec"**_, posteriormente Descomprimirlo en la misma ubicación. 
+3. Ejecutar WampServer y esperar a que los 3 servicios se encuentren ejecutándose (El logo de WampServer debe pintarse de color Verde).
 4. Ingresar al Navegador por Defecto y escribir `http://localhost/phpmyadmin/`.
-5. Iniciar Sesion en phpMyAdmin.
-6. Crear una Nueva BD llamada _**"examen"**_ con colacion `utf8_spanish_ci`.
+5. Iniciar Sesión en phpMyAdmin.
+6. Crear una Nueva BD llamada _**"examen"**_ con colación `utf8_spanish_ci`.
 7. Ingresar a la BD _**"examen"**_ e Importarle el archivo _**"examen.sql"**_ ubicado en `C:\wamp\www\ServTec`. 
-8. Ahora podra acceder al sitio a traves del siguiente link: `http://localhost/ServTec/`.
+8. Ahora podrá acceder al sitio a través del siguiente link: `http://localhost/ServTec/`.
 
+**Ingresar al Panel de Administrador:**
+* **Usuario:** admin
+* **Contraseña:** fakepass
+
+**Ingresar al Panel de Estudiante:**
+* **Usuario:** 16211957
+* **Contraseña:** pass
 
 ## Documentación 
 [Manual de Usuario](https://drive.google.com/file/d/11-jdCwbZEdJqDRpAPUMd7AxFalm-1KnE/view?usp=sharing)
-
