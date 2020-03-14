@@ -28,3 +28,11 @@ Por Solicitud del **M.A. Artemio Lara Chávez** _(Jefe del Depto. de Gestión Te
 * jQuery v1.12.0
 * DataTables v1.10.11
 * Clockcountdown.js
+
+## Instrucciones para Ejecutarlo Localmente
+1. [Descargar WampServer](https://drive.google.com/file/d/19_QKpAA-_yDf052s-rYwwKu_wz5T3eCs/view?usp=sharing)
+2. [Descargar el Repositorio](https://github.com/Acevedo-Cardona-Adelaid-Lesdeymariet/ServTec) y _Guardarlo_ en la Dirección `C:\wamp\www` con el Nombre _**"ServTec"**_, posteriormente _Descomprimirlo_ en la misma ubicación. 
+
+## Documentación 
+[Manual de Usuario](https://drive.google.com/file/d/11-jdCwbZEdJqDRpAPUMd7AxFalm-1KnE/view?usp=sharing)
+
